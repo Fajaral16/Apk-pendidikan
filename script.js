@@ -5,11 +5,6 @@ const correctAnswers = {
   q3: "a", // 
   q4: "c",
   q5: "b",
-  q6: "c",
-  q7: "a",
-  q8: "c",
-  q9: "b",
-  q10: "a",
 };
 
 // Fungsi untuk mengecek jawaban
